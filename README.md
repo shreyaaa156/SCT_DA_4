@@ -1,22 +1,25 @@
-# SCT_DA_4
 # SkillCraft Technology Internship - Task 4
 
-## Sentiment Analysis using Python
+## Exploratory Data Analysis (EDA)
 
-This project performs sentiment analysis on text reviews using Python.
+This project focuses on analyzing a marketing campaign dataset using Python.
 
-### Features
+### Tasks Performed
 
-* Text sentiment classification
-* Positive, Negative, and Neutral prediction
-* CSV result generation
+* Data loading and preprocessing
+* Exploratory Data Analysis (EDA)
+* Customer behavior analysis
+* Campaign performance visualization
+* Funnel and performance chart generation
 
 ### Tools Used
 
 * Python
-* TextBlob
 * Pandas
+* Matplotlib
+* VS Code
 
-### Output
+### Output Files
 
-* Sentiment classified dataset
+* Funnel Visualization
+* Campaign Performance Charts
